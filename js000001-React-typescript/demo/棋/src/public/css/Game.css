@@ -1,0 +1,11 @@
+div.foo {
+  position: relative;
+  width: 99px;
+}
+div.game {
+  float: left;
+  height: 300px;
+}
+span.step {
+  margin-left: 100px;
+}

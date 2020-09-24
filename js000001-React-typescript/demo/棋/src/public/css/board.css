@@ -1,0 +1,14 @@
+button.row {
+  width: 33px;
+  height: 33px;
+  float: left;
+  font-weight: bold;
+  line-height: 33px;
+  border: 1px black solid;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+button:disabled {
+  color: black;
+}

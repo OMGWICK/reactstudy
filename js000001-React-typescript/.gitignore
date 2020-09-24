@@ -1,0 +1,5 @@
+ajax/php/upload/
+*.pdf
+/pdf/
+/node_modules/*
+node_modules/
